@@ -47,3 +47,9 @@ Below are some key outputs from running the `digital_inclusion_model.ipynb` note
 
 ### Learning Path Prediction (Confusion Matrix)
 ![Confusion Matrix Plot](confusion_matrix_plot.png)
+
+## Project Presentation
+
+Watch our 5-minute project presentation on YouTube:
+
+https://youtu.be/Th1QeHXMGDU
